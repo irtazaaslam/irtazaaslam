@@ -5,7 +5,7 @@
 
 - I’m currently learning **GenerativeAI**
 
-- I’m looking for a challenging **Oppotunity**
+- I’m looking for a  **Challenging Oppotunity**
 
 - I’m looking for help with **Exploring new positions**
 
