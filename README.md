@@ -5,13 +5,9 @@
 
 - I’m currently learning **GenerativeAI**
 
-- I’m looking for a **Challenging Oppotunity**
-
-- I’m looking for help with **Exploring new positions**
-
 - All of my projects are available at [https://github.com/irtazaaslam](https://github.com/irtazaaslam)
 
-- 💬 Ask me about **Python, SQL, Data Science and Machine Learning**
+- 💬 Ask me about **Data Science and Machine Learning**
 
 - Reach out to me at **irtazaaslam.ai@gmail.com**
 
