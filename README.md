@@ -1,13 +1,7 @@
 <h1 align="center">Hi, This is Irtaza Aslam</h1>
 <h3 align="center">A Passionate Data Scientist</h3>
 
-- I’m currently working on **Data Science Pipelines**
-
-- I’m currently learning **GenerativeAI**
-
-- All of my projects are available at [https://github.com/irtazaaslam](https://github.com/irtazaaslam)
-
-- 💬 Ask me about **Data Science and Machine Learning**
+- 💬 Ask me about **Data Science, Machine Learning and GenerativeAi**
 
 - Reach out to me at **irtazaaslam.ai@gmail.com**
 
